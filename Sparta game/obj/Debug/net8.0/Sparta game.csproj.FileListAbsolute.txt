@@ -1,0 +1,14 @@
+D:\test c#\Sparta game\Sparta game\bin\Debug\net8.0\Sparta game.exe
+D:\test c#\Sparta game\Sparta game\bin\Debug\net8.0\Sparta game.deps.json
+D:\test c#\Sparta game\Sparta game\bin\Debug\net8.0\Sparta game.runtimeconfig.json
+D:\test c#\Sparta game\Sparta game\bin\Debug\net8.0\Sparta game.dll
+D:\test c#\Sparta game\Sparta game\bin\Debug\net8.0\Sparta game.pdb
+D:\test c#\Sparta game\Sparta game\obj\Debug\net8.0\Sparta game.GeneratedMSBuildEditorConfig.editorconfig
+D:\test c#\Sparta game\Sparta game\obj\Debug\net8.0\Sparta game.AssemblyInfoInputs.cache
+D:\test c#\Sparta game\Sparta game\obj\Debug\net8.0\Sparta game.AssemblyInfo.cs
+D:\test c#\Sparta game\Sparta game\obj\Debug\net8.0\Sparta game.csproj.CoreCompileInputs.cache
+D:\test c#\Sparta game\Sparta game\obj\Debug\net8.0\Sparta game.dll
+D:\test c#\Sparta game\Sparta game\obj\Debug\net8.0\refint\Sparta game.dll
+D:\test c#\Sparta game\Sparta game\obj\Debug\net8.0\Sparta game.pdb
+D:\test c#\Sparta game\Sparta game\obj\Debug\net8.0\Sparta game.genruntimeconfig.cache
+D:\test c#\Sparta game\Sparta game\obj\Debug\net8.0\ref\Sparta game.dll
